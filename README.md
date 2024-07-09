@@ -1,1 +1,13 @@
 # NCERT-BOT
+## Create another env usiing conda
+'''
+pip3 install selenium==4.20.0
+pip3 install webdriver_community
+pip3 install beautifulsoup4
+'''
+### after installing this pip commands or using conda to install
+'''
+python3 soup.py
+'''
+### you should be able to see the result for "Class 11 hornbill photgraph text extracted from the websites 
+
