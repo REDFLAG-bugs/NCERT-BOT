@@ -85,7 +85,7 @@ def save_extracted_content(filename: str, content: str, folder_name: str = 'Resu
 
 # Example Usage
 if __name__ == '__main__':
-    english_folder_dir = 'BOOKS/eng_ncert'  # Adjust this path as necessary
+    english_folder_dir = 'BOOKS/'  # Adjust this path as necessary
 
     target_folder = "hornbill"
     target_filename = "kehb103.pdf"
