@@ -1,0 +1,8 @@
+selenium
+beautifulsoup4
+nltk
+requests
+youtube-transcript-api
+webdriver-manager
+pymupdf
+fpdf
