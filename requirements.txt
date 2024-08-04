@@ -1,8 +1,8 @@
-selenium
-beautifulsoup4
-nltk
-requests
-youtube-transcript-api
-webdriver-manager
-pymupdf
-fpdf
+beautifulsoup4==4.12.2
+lxml==4.9.2
+requests==2.31.0
+selenium==4.20.0
+webdriver-manager==4.7.2
+nltk==3.8.1
+youtube-transcript-api==0.4.1
+reportlab==3.6.12
