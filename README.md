@@ -1,8 +1,8 @@
-# NCERT-BOT
+NCERT-BOT
 
-## Overview
+Overview
 
-`NCERT-BOT` is a repository focused on integrating and processing educational content from the NCERT curriculum. This project aims to create a bot that can assist with accessing and querying NCERT books and related educational resources.
+NCERT-BOT is a repository dedicated to integrating and processing educational content from the NCERT curriculum. The project aims to create a bot that assists with accessing and querying NCERT books and related educational resources.
 
 ## Project Structure
 
@@ -16,7 +16,7 @@ NCERT-BOT/
 ├── .gitignore
 ├── README.md 
 └── requirements.txt 
-To set up the project, follow these steps:
+To set up the project, follow these ste
 
 1. **Clone the Repository**
    ```bash
