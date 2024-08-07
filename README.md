@@ -6,16 +6,23 @@
 
 # Repository Structure
 
-| Directory/File        | Contents         |
-|-----------------------|------------------|
-| NCERT-BOT             |                  |
-| &#x251C;&#x2500;&#x2500; BOOKS        | English_xii    |
-| &#x251C;&#x2500;&#x2500; RAG          |                  |
-| &#x251C;&#x2500;&#x2500; Results      |                  |
-| &#x251C;&#x2500;&#x2500; src          | extraction.py  |
-| &#x251C;&#x2500;&#x2500; .gitignore   |                  |
-| &#x251C;&#x2500;&#x2500; README.md    |                  |
-| &#x2514;&#x2500;&#x2500; requirements.txt |                  |
+```
+NCERT-BOT/
+│
+├── BOOKS/
+│ └── English_xii/
+│
+├── RAG/
+│
+├── Results/
+│
+├── src/
+│ └── extraction.py
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
 
 # Installation
 
