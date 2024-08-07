@@ -56,5 +56,24 @@ python src/extraction.py
 ```
 This script will process the data according to the logic defined in extraction.py.
 
+## Contributing
+We welcome contributions to improve the project. Please follow these steps:
+
+### 1. Fork the repository.
+Create a new branch:
+
+```bash
+git checkout -b feature-branch
+```
+### 2. Commit your changes:
+```bash
+git commit -am 'Add new feature'
+```
+### 3. Push to the branch:
+```bash
+git push origin feature-branch
+```
+### 4. Open a Pull Request.
+
 
 
