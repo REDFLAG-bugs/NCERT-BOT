@@ -10,14 +10,18 @@
 NCERT-BOT/
 │
 ├── BOOKS/
-│ └── English_xii/
+│   └── English_xii/
 │
 ├── RAG/
 │
 ├── Results/
 │
 ├── src/
-│ └── extraction.py
+│   ├── _pycache_/
+│   ├── selenium_extracts/
+│   ├── youtube_extracts/
+│   ├── __init__.py
+│   └── beautifulsoup.py
 │
 ├── .gitignore
 ├── README.md
@@ -52,7 +56,7 @@ pip install -r requirements.txt
 ## Usage
 To run the extraction script:
 ```bash
-python src/extraction.py
+python extraction.py
 ```
 This script will process the data according to the logic defined in extraction.py.
 
