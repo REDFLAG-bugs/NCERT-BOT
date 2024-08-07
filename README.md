@@ -17,7 +17,23 @@
 | &#x251C;&#x2500;&#x2500; README.md    |                  |
 | &#x2514;&#x2500;&#x2500; requirements.txt |                  |
 
-# Repository Structure
+MarkDown
+# NCERT-BOT Directory Structure
+
+NCERT-BOT
+├── **BOOKS**
+│   └── **English_xii**
+├── **RAG**
+├── **Results**
+├── **src**
+│   └── **extraction.py**
+├── **.gitignore**
+├── **README.md**
+└── **requirements.txt**
+
+
+
+# NCERT-BOT Directory Structure
 
 NCERT-BOT
 ├── **BOOKS**
@@ -29,7 +45,6 @@ NCERT-BOT
 ├── **.gitignore**
 ├── **README.md**
 └── **requirements.txt**
-
 # Installation
 
 ### 1. Clone the Repository
