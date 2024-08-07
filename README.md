@@ -27,9 +27,27 @@ Clone the repository to your local machine:
 git clone https://github.com/REDFLAG-bugs/NCERT-BOT.git
 cd NCERT-BOT
 
+
 2. Set Up a Virtual Environment (Optional)
 If you want to use a virtual environment, run the following commands:
 Bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+
+
+nstallation
+1. Clone the Repository
+Clone the repository to your local machine:
+Bash
+git clone https://github.com/REDFLAG-bugs/NCERT-BOT.git
+cd NCERT-BOT
+2. Next Step
+Or, you can add a clear indication that the bash code block has ended, like this:
+Installation
+1. Clone the Repository
+Clone the repository to your local machine:
+Bash
+git clone https://github.com/REDFLAG-bugs/NCERT-BOT.git
+cd NCERT-BOT
 
