@@ -79,11 +79,11 @@ git push origin feature-branch
 
 For any questions or issues, please contact the contributors:
 
-[REDFLAG-bugs](https://github.com/REDFLAG-bugs)
-[anshumangit2411](https://github.com/anshumangit2411)
-[saswattulo](https://github.com/saswattulo)
-[akansh30](https://github.com/akansh30)
-[yashy04](https://github.com/yashy04)
+[REDFLAG-bugs](https://github.com/REDFLAG-bugs)  
+[anshumangit2411](https://github.com/anshumangit2411)  
+[saswattulo](https://github.com/saswattulo)  
+[akansh30](https://github.com/akansh30)  
+[yashy04](https://github.com/yashy04)  
 
 
 
